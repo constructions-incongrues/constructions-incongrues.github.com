@@ -1,0 +1,8 @@
+{
+    "name": "Constructions Incongrues packages repository",
+    "homepage": "http://constructions-incongrues.github.com/packages",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git" }
+    ],
+    "require-all": true
+}
