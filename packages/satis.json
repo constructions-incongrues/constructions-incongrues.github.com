@@ -1,5 +1,5 @@
 {
-    "name": "Constructions Incongrues packages repository",
+    "name": "Constructions Incongrues",
     "homepage": "http://constructions-incongrues.github.com/packages",
     "repositories": [
         { "type": "vcs", "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git" }
