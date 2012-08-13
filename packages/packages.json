@@ -5,16 +5,16 @@
                 "name": "constructions-incongrues/ananas-build-toolkit",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
-                "time": "2012-08-10 16:15:19",
+                "time": "2012-08-13 07:59:03",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git",
-                    "reference": "24f0578c5e65082b64a90de6ce9440fd9a392e94"
+                    "reference": "efb4eb4f75a11479848b8b7df49cc77366b14e25"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/zipball/24f0578c5e65082b64a90de6ce9440fd9a392e94",
-                    "reference": "24f0578c5e65082b64a90de6ce9440fd9a392e94",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/zipball/efb4eb4f75a11479848b8b7df49cc77366b14e25",
+                    "reference": "efb4eb4f75a11479848b8b7df49cc77366b14e25",
                     "shasum": ""
                 },
                 "type": "library",
