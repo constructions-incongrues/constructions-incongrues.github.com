@@ -8,15 +8,39 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git",
-                    "reference": "8f9a44dc3447c4b252782d243cd09d649f3d0c71"
+                    "reference": "4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/zipball/8f9a44dc3447c4b252782d243cd09d649f3d0c71",
-                    "reference": "8f9a44dc3447c4b252782d243cd09d649f3d0c71",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/archive/4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5.zip",
+                    "reference": "4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5",
                     "shasum": ""
                 },
-                "time": "2012-09-07 10:10:06",
+                "time": "2012-11-23 11:42:18",
+                "type": "library",
+                "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
+                "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
+                "support": {
+                    "issues": "https://github.com/constructions-incongrues/ananas-build-toolkit/issues",
+                    "source": "https://github.com/constructions-incongrues/ananas-build-toolkit"
+                }
+            },
+            "dev-feature/ant-push-cpda": {
+                "name": "constructions-incongrues/ananas-build-toolkit",
+                "version": "dev-feature/ant-push-cpda",
+                "version_normalized": "dev-feature/ant-push-cpda",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git",
+                    "reference": "4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/archive/4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5.zip",
+                    "reference": "4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5",
+                    "shasum": ""
+                },
+                "time": "2012-11-23 11:42:18",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
