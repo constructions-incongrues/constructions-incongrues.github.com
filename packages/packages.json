@@ -1,19 +1,19 @@
 {
     "packages": {
         "constructions-incongrues/ananas-build-toolkit": {
-            "dev-master": {
+            "0.1.0": {
                 "name": "constructions-incongrues/ananas-build-toolkit",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git",
-                    "reference": "4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5"
+                    "reference": "0.1.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/archive/4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5.zip",
-                    "reference": "4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/archive/0.1.0.zip",
+                    "reference": "0.1.0",
                     "shasum": ""
                 },
                 "time": "2012-11-23 11:42:18",
@@ -25,19 +25,19 @@
                     "source": "https://github.com/constructions-incongrues/ananas-build-toolkit"
                 }
             },
-            "dev-feature/ant-push-cpda": {
+            "dev-master": {
                 "name": "constructions-incongrues/ananas-build-toolkit",
-                "version": "dev-feature/ant-push-cpda",
-                "version_normalized": "dev-feature/ant-push-cpda",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git",
-                    "reference": "4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5"
+                    "reference": "0.1.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/archive/4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5.zip",
-                    "reference": "4e8196ebf12cb7abf0cb3c59cf7e7280df52a8e5",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/archive/0.1.0.zip",
+                    "reference": "0.1.0",
                     "shasum": ""
                 },
                 "time": "2012-11-23 11:42:18",
