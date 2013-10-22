@@ -16,7 +16,6 @@
                     "reference": "0.1.0",
                     "shasum": ""
                 },
-                "time": "2012-11-23 11:42:18",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -40,7 +39,6 @@
                     "reference": "0.1.1",
                     "shasum": ""
                 },
-                "time": "2012-11-25 13:59:16",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -64,7 +62,6 @@
                     "reference": "0.2.0",
                     "shasum": ""
                 },
-                "time": "2013-01-13 10:19:38",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -88,7 +85,6 @@
                     "reference": "0.3.0",
                     "shasum": ""
                 },
-                "time": "2013-01-23 14:22:47",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -112,7 +108,6 @@
                     "reference": "0.4.0",
                     "shasum": ""
                 },
-                "time": "2013-01-25 15:41:12",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -136,7 +131,6 @@
                     "reference": "0.5.0",
                     "shasum": ""
                 },
-                "time": "2013-03-15 09:17:36",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -160,7 +154,6 @@
                     "reference": "0.6.0",
                     "shasum": ""
                 },
-                "time": "2013-03-15 15:57:26",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -184,7 +177,6 @@
                     "reference": "0.6.1",
                     "shasum": ""
                 },
-                "time": "2013-03-18 11:11:13",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -208,7 +200,6 @@
                     "reference": "0.6.2",
                     "shasum": ""
                 },
-                "time": "2013-03-18 17:04:51",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -232,7 +223,6 @@
                     "reference": "0.6.3",
                     "shasum": ""
                 },
-                "time": "2013-03-19 10:15:01",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -256,7 +246,6 @@
                     "reference": "0.7.0",
                     "shasum": ""
                 },
-                "time": "2013-03-19 11:24:13",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -280,7 +269,6 @@
                     "reference": "0.7.1",
                     "shasum": ""
                 },
-                "time": "2013-03-19 12:52:19",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -304,7 +292,6 @@
                     "reference": "0.7.2",
                     "shasum": ""
                 },
-                "time": "2013-03-21 14:23:05",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -328,7 +315,6 @@
                     "reference": "0.7.3",
                     "shasum": ""
                 },
-                "time": "2013-03-21 14:29:09",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -352,7 +338,6 @@
                     "reference": "0.8.0",
                     "shasum": ""
                 },
-                "time": "2013-03-27 14:51:55",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -376,7 +361,6 @@
                     "reference": "0.8.1",
                     "shasum": ""
                 },
-                "time": "2013-03-27 16:23:43",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -400,7 +384,6 @@
                     "reference": "0.8.2",
                     "shasum": ""
                 },
-                "time": "2013-03-28 10:59:18",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -424,7 +407,6 @@
                     "reference": "0.8.3",
                     "shasum": ""
                 },
-                "time": "2013-03-28 11:06:01",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -448,7 +430,6 @@
                     "reference": "0.8.4",
                     "shasum": ""
                 },
-                "time": "2013-03-28 11:09:20",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -472,7 +453,6 @@
                     "reference": "0.8.5",
                     "shasum": ""
                 },
-                "time": "2013-03-28 11:09:40",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -496,7 +476,6 @@
                     "reference": "0.8.6",
                     "shasum": ""
                 },
-                "time": "2013-03-29 10:03:05",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -520,7 +499,6 @@
                     "reference": "0.8.7",
                     "shasum": ""
                 },
-                "time": "2013-03-29 10:17:17",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -544,7 +522,6 @@
                     "reference": "0.9.0",
                     "shasum": ""
                 },
-                "time": "2013-10-01 09:18:43",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -568,7 +545,29 @@
                     "reference": "0.9.1",
                     "shasum": ""
                 },
-                "time": "2013-10-01 10:00:57",
+                "type": "library",
+                "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
+                "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
+                "support": {
+                    "issues": "https://github.com/constructions-incongrues/ananas-build-toolkit/issues",
+                    "source": "https://github.com/constructions-incongrues/ananas-build-toolkit"
+                }
+            },
+            "0.9.2": {
+                "name": "constructions-incongrues/ananas-build-toolkit",
+                "version": "0.9.2",
+                "version_normalized": "0.9.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git",
+                    "reference": "0.9.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/zipball/0.9.2",
+                    "reference": "0.9.2",
+                    "shasum": ""
+                },
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -584,15 +583,14 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git",
-                    "reference": "80332fb59019b5fbaa1967396f51e1babd2974b7"
+                    "reference": "0.9.2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/zipball/80332fb59019b5fbaa1967396f51e1babd2974b7",
-                    "reference": "80332fb59019b5fbaa1967396f51e1babd2974b7",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/zipball/0.9.2",
+                    "reference": "0.9.2",
                     "shasum": ""
                 },
-                "time": "2013-10-01 10:02:11",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
@@ -616,7 +614,6 @@
                     "reference": "390d15c02296cd0a5340f07fc266fe9c6af185f9",
                     "shasum": ""
                 },
-                "time": "2012-11-23 16:29:06",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
