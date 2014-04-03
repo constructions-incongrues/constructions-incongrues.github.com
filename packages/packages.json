@@ -704,15 +704,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/constructions-incongrues/ananas-build-toolkit.git",
-                    "reference": "0.11.1"
+                    "reference": "40dde04d67de203dd0363451094b3bca96070326"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/zipball/0.11.1",
-                    "reference": "0.11.1",
+                    "url": "https://github.com/constructions-incongrues/ananas-build-toolkit/zipball/40dde04d67de203dd0363451094b3bca96070326",
+                    "reference": "40dde04d67de203dd0363451094b3bca96070326",
                     "shasum": ""
                 },
-                "time": "2014-02-23 22:07:04",
+                "time": "2014-04-03 13:49:58",
                 "type": "library",
                 "description": "L'Ananas Build Toolkit est un framework de configuration et de déploiement de projet logiciel.",
                 "homepage": "http://constructions-incongrues.github.com/ananas-build-toolkit/",
